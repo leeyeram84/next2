@@ -3,7 +3,7 @@ import React from "react";
 const page = () => {
     return (
         <div>
-            <h1>홈페이지입니다</h1>
+            <h1>어바웃페이지</h1>
         </div>
     );
 };
